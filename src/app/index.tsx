@@ -47,6 +47,8 @@ export default function HomeScreen() {
   );
 }
 
+const product = ;
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
